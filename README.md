@@ -1,0 +1,2 @@
+# Wine-Quality-Predection-
+LIFE IS TOO SHORT TO DRINK BAD QUALITY WINE
